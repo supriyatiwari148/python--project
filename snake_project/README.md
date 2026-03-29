@@ -43,14 +43,7 @@ snake-game/
 │
 ├── snake_game.py
 └── README.md
+#Author - Supriya Tiwari
 
-## Future Enhancements
-
-- Add sound effects
-- Implement high score saving
-- Add levels or difficulty settings
-- Improve graphics
-
-## License
 
 This project is open source and available under the MIT License.
